@@ -1,0 +1,2 @@
+# gitvis
+visualize git log 
